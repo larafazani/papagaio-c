@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
     }
 
     printf("voce digitou %s\n", argv[1]);
-    printf("Feito por Lara Fazani);
+    printf("Feito por Lara Fazani");
 
     return 0;
 }
